@@ -11,33 +11,33 @@ A Queue has to be maintained well to synchronize between the average waiting tim
 
 ## About this Project
 
-In this project we are trying to simulate a single server banking system. We have used **Poisson and Exponential distribution** for some random variables to generate interarrival time and service time respectively. Running the simulation for 20 customers so far.
+In this project, we are trying to simulate a single-server banking system. We have used Poisson and Exponential distribution for some random variables to generate interarrival time and service time respectively. Simulating 20 customers so far.
 
 ## Procedure
 
-  - Now, we have to consider a single server for simulate the bank system.
+  -Now, we have to consider a single server to simulate the bank system.
 
-  - We have to initaial inter arrival time and service time first.
+  - We have to initial inter-arrival time and service time first.
 
-  - Consider poission as inter arrival time and exponential as service time generate 20 random values.
+  - Consider poison as inter-arrival time and exponential as service time generate 20 random values.
 
-  - The generate arrival time, time service end, time service begin,waiting time,time spend in system & idle time step by step.
+  - The generate arrival time, time service end, time service begins, waiting time, time spends in system & idle time step by step.
 
-  - The value generating equations are given in the code section.
+  - The value-generating equations are given in the code section.
 
-  - The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
+  - The single-channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
 
   - The number of arrivals per unit of time is described by poisson distribution. The mean arrival rate is denoted by λ.
 
   - The service time has exponential distribution. The average service rate is denoted by μ.
 
-  - Arrivals are from infinite population.
+  - Arrivals are from an infinite population.
 
   - The queue discipline is FIFO, that is, the customers are served on a first come first serve basis.
 
   - There is only a single service station.
 
-  - The mean arrival rate is less than the mean service rate .
+  - The mean arrival rate is less than the mean service rate.
 
   - The waiting space available for customers in the queue is infinite.
 
