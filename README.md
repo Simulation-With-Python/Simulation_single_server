@@ -102,9 +102,8 @@ Using ***Poisson*** & ***Exponential distribution*** we generating the random va
 
 ![time routine](https://user-images.githubusercontent.com/79735371/112966447-10d7b680-916c-11eb-9789-f26017441012.png)
 
-**Given Table
 
-![time](https://user-images.githubusercontent.com/79735371/112966498-1c2ae200-916c-11eb-9fff-4b4ef9b3643e.png)
+
 
 **Running the Simulation
 
