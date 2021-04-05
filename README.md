@@ -5,6 +5,10 @@
 
 A queue is a line of people or things to be handled in a sequential order. It is a sequence of objects that are waiting to be processed. Queuing theory is the study of queues for managing process and objects. Simulation has been applied successfully for modeling small and large complex systems and understanding queuing behavior. Analysis of the models helps to increases the performance of the system.Simulation helps in understanding the behaviour of a queuing system and also obtain certain very useful parameters. 
 
+## Motivation
+
+
+
 ## Queing onceptions
 
 A Queue has to be maintained well to synchronize between the average waiting time and the idle time of server. A queuing model in which input, computation,transmission, storage and output are discrete in time field, is called discrete queuing model. Inreal life, a queue can be imagined as though to be of some people waiting in bank, usage of Atm machines or cash counter phenomenon.
