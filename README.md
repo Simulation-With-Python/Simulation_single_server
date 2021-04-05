@@ -117,7 +117,9 @@ The next step is to run the simulation. I decided to run it for 20 customers. I 
 
 Here is a snippet of the results obtained from 20 customers.
 
-![table1](https://user-images.githubusercontent.com/79735371/112969744-5cd82a80-916f-11eb-957e-2a45d8436ee1.png)
+
+![table1 1](https://user-images.githubusercontent.com/79735371/113620992-e52d6280-967c-11eb-8cc6-6f761135fa7c.png)
+
 
 
 
