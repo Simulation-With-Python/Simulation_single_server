@@ -7,6 +7,7 @@ A queue is a line of people or things to be handled in a sequential order. It is
 
 ## Motivation
 
+Currently there is a lot of demand for simulation. From that demand new simulating ideas and processes are being built. To take these ideas or processes further, we have created a simlation of a banking system that solves problem in a completely new way, in an easy way. And we have exposed the issue. While this is not the best solution, it is the first step in sloving the problem. Inspiration to work in future.
 
 
 ## Queing onceptions
